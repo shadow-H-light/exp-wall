@@ -7,7 +7,7 @@ export const profile = {
   location: "北京",
   availability: "可长期实习 · 远程 · 不要求转正",
   phone: "188-7847-0551",
-  email: "21373025@buaa.edu.cn",
+  email: "2567724868@qq.com",
   headline: "把撮合、履约、资金做成可上线的状态机。",
 }
 
